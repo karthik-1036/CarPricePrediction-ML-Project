@@ -1,0 +1,83 @@
+Make:
+  type: categorical
+  options: [Maruti Suzuki, Hyundai, Honda, Toyota, Tata, Mahindra, Ford, Kia, Mercedes-Benz, BMW, Rolls-Royce, Ferrari, Land Rover, MG, Others]
+
+Model:
+  type: categorical
+  options: [Swift VDI, Innova 2.4 VX, Amaze VX i-VTEC, i10 Magna, Glanza G, Others]
+
+Year:
+  type: numerical
+  range: [2005, 2024]
+
+Fuel Type:
+  type: categorical
+  options: [Petrol, Diesel, CNG, LPG, Electric, Hybrid]
+
+Transmission:
+  type: categorical
+  options: [Manual, Automatic]
+
+Kms_Driven:
+  type: numerical
+  range: [1000, 300000]
+
+Owner:
+  type: categorical
+  options: [First, Second, Third, Fourth & Above]
+
+Seller Type:
+  type: categorical
+  options: [Individual, Dealer, Corporate]
+
+Drivetrain:
+  type: categorical
+  options: [FWD, RWD, AWD, 4WD]
+
+max_bhp:
+  type: numerical
+  range: [40, 600]
+
+max_bhp_rpm:
+  type: numerical
+  range: [2000, 8000]
+
+max_torque:
+  type: numerical
+  range: [50, 900]
+
+max_torque_rpm:
+  type: numerical
+  range: [1000, 7000]
+
+Engine_Capacity:
+  type: numerical
+  range: [600, 5000]
+
+Fuel Tank Capacity:
+  type: numerical
+  range: [20.0, 100.0]
+
+Seating Capacity:
+  type: numerical
+  range: [2, 9]
+
+Length:
+  type: numerical
+  range: [3000.0, 5500.0]
+
+Width:
+  type: numerical
+  range: [1400.0, 2200.0]
+
+Height:
+  type: numerical
+  range: [1200.0, 2000.0]
+
+Color:
+  type: categorical
+  options: [White, Grey, Black, Red, Blue, Silver, Brown, Maroon, Orange, Others]
+
+Location:
+  type: categorical
+  options: [Mumbai, Delhi, Bangalore, Chennai, Pune, Kolkata, Mysore, Hyderabad, Ahmedabad, Jaipur, Lucknow, Others]
