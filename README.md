@@ -120,5 +120,5 @@ Contributions, ideas, or feature requests are welcome. Fork and submit a PR or o
 ## 📬 Contact
 
 **Author**: Karthik P  
-**LinkedIn**: [https://www.linkedin.com/in/karthik-prasad-ai/](#)  
+**LinkedIn**: https://www.linkedin.com/in/karthik-prasad-ai/
 **Email**: karthikprasad2206@gmail.com
