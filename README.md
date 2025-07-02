@@ -74,7 +74,7 @@ CarPricePrediction-ML-Project/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/car-price-predictor.git
+git clone https://github.com/karthik-1036/CarPricePrediction-ML-Project.git
 cd car-price-predictor
 
 # 2. Create and activate virtual env (recommended)
@@ -119,6 +119,6 @@ Contributions, ideas, or feature requests are welcome. Fork and submit a PR or o
 
 ## 📬 Contact
 
-**Author**: [Your Name]  
-**LinkedIn**: [linkedin.com/in/yourprofile](#)  
-**Email**: you@example.com
+**Author**: Karthik P  
+**LinkedIn**: [https://www.linkedin.com/in/karthik-prasad-ai/](#)  
+**Email**: karthikprasad2206@gmail.com

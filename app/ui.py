@@ -7,7 +7,7 @@ import joblib
 model = joblib.load("saved_models/car_price_model_xgb.pkl")
 
 # Load YAML schema
-with open("input_schema.yaml", "r") as f:
+with open("app/input_schema.yaml", "r") as f:
     schema = yaml.safe_load(f)
 
 st.set_page_config(page_title="Car Price Predictor", layout="centered")
